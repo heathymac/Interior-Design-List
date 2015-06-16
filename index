@@ -92,9 +92,89 @@
           </div>
       </div>
       </div>
+      <div class="cat-list-col listone">
+      <div class="cat-header">
+        <h2>Furniture</h2>
+      </div>
+          <div class="catagory-wrapper">
+            <ul>
+              <li class="list1"><a href="http://www.heals.co.uk/" target="_blank">Heals</a></li>
+              <li class="list1"><a href="http://www.ikea.com/" target="_blank">Ikea</a></li>
+              <li class="list1"><a href="http://www.zarahome.com/" target="_blank">Zara Home</a></li>
+              <li class="list1"><a href="http://www.habitat.co.uk/" target="_blank">Habitat</a></li>
+              <li class="list1"><a href="http://www.anthropologie.eu" target="_blank">Anthropologie</a></li>
+              <li class="list1"><a href="http://www.lauraashley.com/" target="_blank">Laura Ashley </a></li>
+              <li class="list1"><a href="http://www.urbanoutfitters.com" target="_blank">Urban Outfitters</a></li>
+              <li class="list1"><a href="http://www.johnlewis.com/home-garden/c500006?rdr=1" target="_blank">John Lewis</a></li>
+              <li class="list1"><a href="http://www.hm.com/gb/department/HOME" target="_blank">H&M Home</a></li>
+              <li class="list1"><a href="http://www.futoncompany.co.uk/" target="_blank">Futon Company</a></li>
+              <li class="list1"><a href="http://chaplins.co.uk/" target="_blank">Chaplins</a></li>
+              <li class="list1"><a href="http://www.made.com/" target="_blank">Made</a></li>
+              <li class="list1"><a href="http://www.karlssondesign.co.uk/" target="_blank">Karlsson</a></li>
+              <li class="list1"><a href="http://www.shopfolklore.com/" target="_blank">Folk Lore</a></li>
+              <li class="list1"><a href="http://www.nest.co.uk/" target="_blank">Nest</a></li>
+              <li class="list1"><a href="http://www.utilitydesign.co.uk/" target="_blank">Utility Design</a></li>
+              <li class="list1"><a href="http://www.boconcept.com/" target="_blank">Bo Concept</a></li>
+              <li class="list1"><a href="http://geoffrey-drayton.co.uk/" target="_blank">Geoffrey-Drayton</a></li>
+              <li class="list1"><a href="http://www.livingspaceuk.com/" target="_blank">Living Space</a></li>
+          </ul>
+          </div>
+      </div>
+        <div class="cat-list-col listtwo">
+        <div class="cat-header">
+          <h2>Homeware</h2>
+          <div class="catagory-wrapper">
+              <ul>
+                <li class="list2"><a href="http://www.houzz.co.uk/" target="_blank">Houzz</a></li>
+                <li class="list2"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list2"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list2"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list2"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+              </ul>
+         </div>
+        </div>
+      </div>
+        <div class="cat-list-col listthree">
+        <div class="cat-header">
+          <h2>Interior Design</h2>
+            <div class="catagory-wrapper">
+              <ul>
+                <li class="list3"><a href="http://www.houzz.co.uk/" target="_blank">Houzz</a></li>
+                <li class="list3"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list3"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list3"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list3"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+              </ul>
+            </div>
+        </div>
+        </div>
+        <div class="cat-list-col listfour">
+        <div class="cat-header">
+          <h2>Lighting</h2>
+            <div class="catagory-wrapper">
+              <ul>
+                <li class="list4"><a href="http://www.houzz.co.uk/" target="_blank">Houzz</a></li>
+                <li class="list4"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list4"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list4"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list4"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list4"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list4"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list4"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list4"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list4"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+                <li class="list4"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
+
+            </ul>
+            </div>
+        </div>
+        </div>
   </div>
   <footer>
   This is my footer
   </footer>
+  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="js/masonry.pkgd.min.js"></script>
+  <script src="js/script.js"></script>
 </body>
 </html>
