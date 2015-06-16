@@ -47,8 +47,6 @@ h2 {
   margin: 15px;
   border: 1px solid #bfb7b7;
   width: 23%;
-  max-height: 883px;
-  overflow: auto;
   float:left;
 }
 .cat-header {
@@ -65,7 +63,9 @@ h2 {
 .catagory-wrapper {
   float: left;
   cursor:pointer;
-  max-width: inherit;
+  width: 100%;
+  max-height: 700px;
+  overflow: scroll;
 }
 
 ul img {
@@ -90,7 +90,6 @@ li {
   background-color: #8AE6B8;
   color: white;
   text-transform: uppercase;
-  width: 87%;
   padding: 12px;
   margin: 5px;
 }
@@ -110,7 +109,6 @@ li {
     background-color: #B8DBFF;
     text-transform: uppercase;
     padding: 12px;
-    width: 148%;
     margin: 5px;
 }
 .list2:hover{
@@ -142,7 +140,6 @@ a.list1 {
   background-color: #FFB2CC;
   color: white;
   text-transform: uppercase;
-  width: 148%;
   padding: 12px;
   margin: 5px;
 }
@@ -162,7 +159,6 @@ a.list1 {
   background-color: #FFFF99;
   color: white;
   text-transform: uppercase;
-  width: 148%;
   padding: 12px;
   margin: 5px;
 }
@@ -182,7 +178,6 @@ a.list1 {
   background-color: #8AE6B8;
   color: white;
   text-transform: uppercase;
-  width: 102%;
   padding: 12px;
   margin: 5px;
 }
@@ -214,4 +209,8 @@ a.list1 {
   text-decoration: underline;
   color: #ffcccc;
   font-size: 16px;
+}
+footer {
+  background-color: black;
+  clear:both;
 }
