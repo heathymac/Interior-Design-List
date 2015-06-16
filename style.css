@@ -1,0 +1,217 @@
+body {
+  background-color: #FFFFF5;
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+  font-family: Tahoma;
+  color: #454545;
+}
+header {
+  text-align: center;
+  height: 90px;
+  font-size: 50px;
+  text-shadow: 1px 1px #B8B8B8;
+  font-style: normal;
+  padding-top: 20px;
+  background-color: #FFCCCC;
+  vertical-align: middle;
+  font-family: Tahoma;
+  color: white;
+  width: 100%;
+  z-index: 99;
+  min-width: 570px;
+  text-transform: uppercase;
+  border-bottom: 1px solid #bfb7b7;
+}
+h2 {
+  display: block;
+  font-size: 15px;
+  padding: 0;
+  margin: 0;
+  font-weight: normal;
+  letter-spacing: 2px;
+  text-align: center;
+}
+.logo {
+  width: 100%;
+}
+.main-container {
+  background-color: #FFFFF5;
+  padding: 30px 30px 40px;
+  width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+.cat-list-col{
+  padding: 0px 0px 5px;
+  margin: 15px;
+  border: 1px solid #bfb7b7;
+  width: 23%;
+  max-height: 883px;
+  overflow: auto;
+  float:left;
+}
+.cat-header {
+  width: 100%;
+}
+.cat-header h2 {
+  text-align: center;
+  background-color: #FFCCCC;
+  color: white;
+  text-transform: uppercase;
+  padding: 12px;
+}
+
+.catagory-wrapper {
+  float: left;
+  cursor:pointer;
+  max-width: inherit;
+}
+
+ul img {
+  width: 20px !important;
+  height: 20px !important;
+  display: inline-block;
+  margin-right: 3px;
+  position: relative;
+  top: 4px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+li {
+  font-family: Tahoma;
+  font-size: 15px;
+}
+.list1 {
+  text-align: center;
+  background-color: #8AE6B8;
+  color: white;
+  text-transform: uppercase;
+  width: 87%;
+  padding: 12px;
+  margin: 5px;
+}
+
+.list1:hover{
+    background-color: #FF9966;
+}
+.list1 a {
+  color: white;
+  padding: 0 0 0 3px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  letter-spacing: 2px;
+}
+.list2 {
+    text-align: center;
+    background-color: #B8DBFF;
+    text-transform: uppercase;
+    padding: 12px;
+    width: 148%;
+    margin: 5px;
+}
+.list2:hover{
+    background-color: #FF9966;
+}
+.list2 a {
+  color: white;
+  padding: 0 0 0 3px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  letter-spacing: 2px;
+}
+
+
+a:hover {
+    color: white;
+}
+a:link {
+    text-decoration: none;
+}
+a.list1 {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}
+.list3 {
+  text-align: center;
+  background-color: #FFB2CC;
+  color: white;
+  text-transform: uppercase;
+  width: 148%;
+  padding: 12px;
+  margin: 5px;
+}
+
+.list3:hover{
+    background-color: #FF9966;
+}
+.list3 a {
+  color: white;
+  padding: 0 0 0 3px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  letter-spacing: 2px;
+}
+.list4 {
+  text-align: center;
+  background-color: #FFFF99;
+  color: white;
+  text-transform: uppercase;
+  width: 148%;
+  padding: 12px;
+  margin: 5px;
+}
+
+.list4:hover{
+    background-color: #FF9966;
+}
+.list4 a {
+  color: white;
+  padding: 0 0 0 3px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  letter-spacing: 2px;
+}
+.list5 {
+  text-align: center;
+  background-color: #8AE6B8;
+  color: white;
+  text-transform: uppercase;
+  width: 102%;
+  padding: 12px;
+  margin: 5px;
+}
+
+.list5:hover{
+    background-color: #FF9966;
+}
+.list5 a {
+  color: white;
+  padding: 0 0 0 3px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  letter-spacing: 2px;
+}
+.featured {
+  padding: 10px 0 0 0;
+  margin: 0;
+  text-align: center;
+}
+.Request {
+  text-align: center;
+  color: #ffcccc;
+  text-transform: uppercase;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 16px;
+}
+.Request a{
+  text-decoration: underline;
+  color: #ffcccc;
+  font-size: 16px;
+}
