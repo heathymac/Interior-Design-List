@@ -175,7 +175,7 @@ a.list1 {
 }
 .list5 {
   text-align: center;
-  background-color: #8AE6B8;
+  background-color: #de6363;
   color: white;
   text-transform: uppercase;
   padding: 12px;
@@ -186,6 +186,63 @@ a.list1 {
     background-color: #FF9966;
 }
 .list5 a {
+  color: white;
+  padding: 0 0 0 3px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  letter-spacing: 2px;
+}
+.list6 {
+  text-align: center;
+  background-color: #63a1de;
+  color: white;
+  text-transform: uppercase;
+  padding: 12px;
+  margin: 5px;
+}
+
+.list6:hover{
+    background-color: #FF9966;
+}
+.list6 a {
+  color: white;
+  padding: 0 0 0 3px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  letter-spacing: 2px;
+}
+.list7 {
+  text-align: center;
+  background-color: #dea163;
+  color: white;
+  text-transform: uppercase;
+  padding: 12px;
+  margin: 5px;
+}
+
+.list7:hover{
+    background-color: #FF9966;
+}
+.list7 a {
+  color: white;
+  padding: 0 0 0 3px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  letter-spacing: 2px;
+}
+.list8 {
+  text-align: center;
+  background-color: #63dede;
+  color: white;
+  text-transform: uppercase;
+  padding: 12px;
+  margin: 5px;
+}
+
+.list8:hover{
+    background-color: #FF9966;
+}
+.list8 a {
   color: white;
   padding: 0 0 0 3px;
   font-weight: normal;
@@ -211,7 +268,7 @@ a.list1 {
   font-size: 16px;
 }
 footer {
-  background-color: #FFCCCC;
+  background-color: #de6363;
   clear:both;
   height: 70px;
 }
