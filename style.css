@@ -13,7 +13,7 @@ header {
   text-shadow: 1px 1px #B8B8B8;
   font-style: normal;
   padding-top: 20px;
-  background-color: #FFCCCC;
+  background-color: #de6363;
   vertical-align: middle;
   font-family: Tahoma;
   color: white;
@@ -38,7 +38,7 @@ h2 {
 .main-container {
   background-color: #FFFFF5;
   padding: 30px 30px 40px;
-  width: 960px;
+  width: 75%;
   margin: 0 auto;
   text-align: center;
 }
@@ -54,7 +54,7 @@ h2 {
 }
 .cat-header h2 {
   text-align: center;
-  background-color: #FFCCCC;
+  background-color: #3c7194;
   color: white;
   text-transform: uppercase;
   padding: 12px;
@@ -87,7 +87,7 @@ li {
 }
 .list1 {
   text-align: center;
-  background-color: #8AE6B8;
+  background-color: #3c948b;
   color: white;
   text-transform: uppercase;
   padding: 12px;
@@ -95,7 +95,7 @@ li {
 }
 
 .list1:hover{
-    background-color: #FF9966;
+    background-color: #f0bc40;
 }
 .list1 a {
   color: white;
@@ -106,13 +106,13 @@ li {
 }
 .list2 {
     text-align: center;
-    background-color: #B8DBFF;
+    background-color: #d88b31;
     text-transform: uppercase;
     padding: 12px;
     margin: 5px;
 }
 .list2:hover{
-    background-color: #FF9966;
+    background-color: #de6363;
 }
 .list2 a {
   color: white;
@@ -122,6 +122,14 @@ li {
   letter-spacing: 2px;
 }
 
+a {
+  /* This flexbox code stretches the link's clickable
+   * area to fit its parent block. */
+  display: flex;
+  flex-grow: 1;
+  flex-shrink: 1;
+  justify-content: center;
+}
 
 a:hover {
     color: white;
@@ -137,7 +145,7 @@ a.list1 {
 }
 .list3 {
   text-align: center;
-  background-color: #FFB2CC;
+  background-color: #f0bc40;
   color: white;
   text-transform: uppercase;
   padding: 12px;
@@ -145,7 +153,7 @@ a.list1 {
 }
 
 .list3:hover{
-    background-color: #FF9966;
+    background-color: #3c948b;
 }
 .list3 a {
   color: white;
@@ -156,7 +164,7 @@ a.list1 {
 }
 .list4 {
   text-align: center;
-  background-color: #FFFF99;
+  background-color: #de6363;
   color: white;
   text-transform: uppercase;
   padding: 12px;
@@ -164,7 +172,7 @@ a.list1 {
 }
 
 .list4:hover{
-    background-color: #FF9966;
+    background-color: #d88b31;
 }
 .list4 a {
   color: white;
@@ -175,7 +183,7 @@ a.list1 {
 }
 .list5 {
   text-align: center;
-  background-color: #de6363;
+  background-color: #63a1dd;
   color: white;
   text-transform: uppercase;
   padding: 12px;
@@ -183,7 +191,7 @@ a.list1 {
 }
 
 .list5:hover{
-    background-color: #FF9966;
+    background-color: #de6362;
 }
 .list5 a {
   color: white;
@@ -194,7 +202,7 @@ a.list1 {
 }
 .list6 {
   text-align: center;
-  background-color: #63a1de;
+  background-color: #3c948b;
   color: white;
   text-transform: uppercase;
   padding: 12px;
@@ -202,7 +210,7 @@ a.list1 {
 }
 
 .list6:hover{
-    background-color: #FF9966;
+    background-color: #f0bc40;
 }
 .list6 a {
   color: white;
@@ -213,7 +221,7 @@ a.list1 {
 }
 .list7 {
   text-align: center;
-  background-color: #dea163;
+  background-color: #f0bc40;
   color: white;
   text-transform: uppercase;
   padding: 12px;
@@ -221,7 +229,7 @@ a.list1 {
 }
 
 .list7:hover{
-    background-color: #FF9966;
+    background-color: #3c948b;
 }
 .list7 a {
   color: white;
@@ -232,7 +240,7 @@ a.list1 {
 }
 .list8 {
   text-align: center;
-  background-color: #63dede;
+  background-color: #d88b31;
   color: white;
   text-transform: uppercase;
   padding: 12px;
@@ -240,7 +248,7 @@ a.list1 {
 }
 
 .list8:hover{
-    background-color: #FF9966;
+    background-color: #de6363;
 }
 .list8 a {
   color: white;
@@ -250,25 +258,29 @@ a.list1 {
   letter-spacing: 2px;
 }
 .featured {
-  padding: 10px 0 0 0;
+  padding: 40px 0 0 0;
   margin: 0;
   text-align: center;
 }
 .Request {
   text-align: center;
-  color: #ffcccc;
+  color: white;
   text-transform: uppercase;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   font-size: 16px;
 }
 .Request a{
   text-decoration: underline;
-  color: #ffcccc;
+  color: white;
   font-size: 16px;
 }
 footer {
   background-color: #de6363;
   clear:both;
-  height: 70px;
+  height: 120px;
 }
+<--.listfour {
+  left: 765px!important;
+  top: 30px!important;
+}-->

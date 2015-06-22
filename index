@@ -6,14 +6,13 @@
 </head>
 <body>
   <header>
-    <div class="logo"><img src="assets/logo2.png"></div>
+    <div class="logo"><img src="assets/deisgnlogo.png"></div>
   </header>
   <div class="tag-line">
-   <div class="Request">THINK WE ARE MISSING A SITE? LET US KNOW BY EMAILING US <a href="mailto:h.mac@live.co.uk?subject=You missed this great site">HERE</a></div>
   </div>
   <div class="top-space">
    <div class="featured"><a href="http://www.firebox.com/" target="_blank">
-     <img src="assets/featured.jpg"></a>
+     <img src="assets/featured-website-banner.png"></a>
   <div class="main-container">
     <div class="cat-list-col listone">
     <div class="cat-header">
@@ -21,7 +20,7 @@
     </div>
         <div class="catagory-wrapper">
           <ul>
-            <li class="list1"><a href="http://www.heals.co.uk/" target="_blank">Heals</a></li>
+            <li class="list1"><a href="http://www.heals.co.uk/" target="_blank" title="Heal's - Good Design, Well Made. Contemporary lighting & furniture by the best British & international designers.">Heals</a></li>
             <li class="list1"><a href="http://www.ikea.com/" target="_blank">Ikea</a></li>
             <li class="list1"><a href="http://www.zarahome.com/" target="_blank">Zara Home</a></li>
             <li class="list1"><a href="http://www.habitat.co.uk/" target="_blank">Habitat</a></li>
@@ -72,6 +71,7 @@
       </div>
       </div>
       <div class="cat-list-col listfour">
+        <div class="listfour">
       <div class="cat-header">
         <h2>Lighting</h2>
           <div class="catagory-wrapper">
@@ -89,6 +89,7 @@
               <li class="list4"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
             </ul>
           </div>
+        </div>
       </div>
       </div>
       <div class="cat-list-col listfive">
@@ -146,11 +147,6 @@
                 <li class="list8"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
                 <li class="list8"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
                 <li class="list8"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
-                <li class="list8"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
-                <li class="list8"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
-                <li class="list8"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
-                <li class="list8"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
-                <li class="list8"><a href="http://www.wowhaus.co.uk/" target="_blank">Wowhaus</a></li>
 
             </ul>
             </div>
@@ -158,7 +154,7 @@
         </div>
   </div>
   <footer>
-  This is my footer
+    <div class="Request">THINK WE ARE MISSING A SITE? LET US KNOW BY EMAILING US <a href="mailto:h.mac@live.co.uk?subject=You missed this great site">HERE</a></div>
   </footer>
   <script src="js/jquery-2.1.4.min.js"></script>
   <script src="js/masonry.pkgd.min.js"></script>
